@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Schaakbord, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Schaakbord -> C:\Users\maart\source\repos\Schaakbord\Schaakbord\bin\Debug\net6.0\Schaakbord.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
